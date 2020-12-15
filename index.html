@@ -224,14 +224,23 @@ style="background-image: url(assets/img/bg-1.png)">
 <script type="text/javascript">
     var video = document.getElementById("videoId");
     video.play();
-    
-    window.onload = function(){
+
+    var is_mobile = false;
+
+    function mobil(){
+      if( $('#landscape').css('z-index')=='900000') {
+      is_mobile = true;
+      document.body.style.overflowY= "hidden";       
+    }
+    }
+      if(is_mobile == false){
+        window.onload = function(){
         var contenedor = document.getElementById('contenedor_carga');
         setTimeout(() => {contenedor.style.visibility = 'hidden';
         contenedor.style.opacity = '0';
         document.body.style.overflowY= "visible";}, 600);
     }
-
+      }
 </script>
 <script>
   AOS.init();
