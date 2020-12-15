@@ -777,7 +777,7 @@ width: 300px;
     z-index: -1000;
 }
  
-@media(max-width: 768px) and (orientation: landscape){
+@media(max-width: 768px){
 #landscape {
   background-color:#242424;
   height: 100%;
