@@ -785,7 +785,6 @@ width: 300px;
   width: 100%;
   position: fixed;
   z-index: 900000;
-  overflow-y: hidden;
 }
 
 #landscapecont {
