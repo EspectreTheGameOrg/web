@@ -1,0 +1,425 @@
+/* XL Device :1200px. */
+@media (min-width: 1200px) and (max-width: 1449px) {
+    
+   .tres-area {
+	background-size: cover;
+} 
+}
+
+/* LG Device :992px. */
+@media (min-width: 992px) and (max-width: 1200px) {
+.mainmenu ul li {
+	margin: 0 15px;
+}
+ .hero-containt h3 {
+	font-size: 55px;
+}   
+.hero-containt p {
+	font-size: 19px;
+}    
+    
+  .hero-containt a {
+	font-size: 18px;
+	width: 160px;
+	height: 46px;
+}  
+    
+  .hero-box {
+	height: 228px;
+	padding-top: 79px;
+}  
+.hero-box-text span {
+	font-size: 12px;
+}    
+  .hero-box-text h3 {
+	font-size: 28px;
+}  
+    
+ .hero-box-text {
+	margin-bottom: 20px;
+}   
+ .hero-box-btn a {
+	width: 73%;
+	height: 45px;
+	font-size: 16px;
+	border-radius: 12px;
+	line-height: 49px;
+}   
+ .ex-title h3 {
+	font-size: 24px;
+}   
+ .ters-title h3 {
+	font-size: 34px;
+}   
+ .tres-text h3 {
+	font-size: 30px;
+}   
+  .tres-text p {
+	font-size: 16px;
+}  
+ .tres-single-box {
+	padding: 0 36px;
+	height: 445px;
+}   
+    
+ .product-area {
+	padding-left: 100px;
+	padding-right: 50px;
+} 
+    .owl-nav button {
+	left: -102px;
+	height: 96px;
+	width: 96px;
+	line-height: 116px !important;
+}  
+  
+.footer-menu {
+  padding: 0;
+}
+.footer-copy {
+  padding: 0;
+}  
+    
+    
+   .tres-area {
+	background-size: cover;
+} 
+}
+
+ 
+/* MD Device :768px. */
+@media (min-width: 768px) and (max-width: 991px) {
+.mainmenu ul li {
+	margin: 0 15px;
+}
+ .hero-containt h3 {
+	font-size: 55px;
+}   
+.hero-containt p {
+	font-size: 19px;
+}    
+    
+  .hero-containt a {
+	font-size: 18px;
+	width: 160px;
+	height: 46px;
+}  
+    
+  .hero-box {
+	height: 228px;
+	padding-top: 79px;
+}  
+.hero-box-text span {
+	font-size: 12px;
+}    
+  .hero-box-text h3 {
+	font-size: 28px;
+}  
+    
+ .hero-box-text {
+	margin-bottom: 20px;
+}   
+ .hero-box-btn a {
+	width: 73%;
+	height: 45px;
+	font-size: 16px;
+	border-radius: 12px;
+	line-height: 49px;
+}   
+ .ex-title h3 {
+	font-size: 24px;
+}   
+ .ters-title h3 {
+	font-size: 34px;
+}   
+ .tres-text h3 {
+	font-size: 30px;
+}   
+  .tres-text p {
+	font-size: 16px;
+}  
+ .tres-single-box {
+	padding: 0 36px;
+	height: 445px;
+}   
+    
+ .product-area {
+	padding-left: 50px;
+	padding-right: 50px;
+} 
+.owl-nav button {
+	left: 0;
+	height: 60px;
+	width: 60px;
+	line-height: 79px !important;
+}
+.footer-menu {
+  padding: 0;
+}
+.footer-copy {
+  padding: 0;
+} 
+    
+  .header-main-menu {
+	display: none;
+}  
+  
+.hero-containt {
+  text-align: center;
+  margin-bottom: 93px;
+}
+.hero-containt-fl {
+  display: block;
+}
+.hero-box {
+  width: 400px;
+  margin: auto;
+  margin-bottom: 80px !important;
+}  
+    
+   .tres-single-box {
+	margin-bottom: 30px;
+} 
+.owl-stage {
+	left: 0;
+}
+.single-product {
+	width: 308px;
+	margin: auto;
+	margin-bottom: 65px !important;
+}    
+    
+    .owl-next {
+	right: 0;
+	left: auto !important;
+}
+    .footer-area {
+	padding: 85px 0;
+}
+    
+    
+    
+    
+  .header-off-btn.menu-trigger.right {
+	display: block !important;
+	background: #ff7f22;
+}  
+    
+  
+.heade-btnn.ddl a {
+  display: inline-block;
+  width: 114px;
+  margin-bottom: 20px;
+  background: #ff7f22 !important;
+  height: 40px;
+  line-height: 41px !important;
+  color: #fff !important;
+  text-align: center;
+  margin-left: 21px;
+  margin-right: 0;
+}  
+     
+   .tres-area {
+	background-size: cover;
+}    
+    
+    
+}
+ 
+
+/* SM Small Device :320px. */
+@media only screen and (min-width: 320px) and (max-width: 767px) {
+.hero-area{
+	padding-top: 110px;
+}
+.mainmenu ul li {
+	margin: 0 15px;
+}
+.hero-containt h3 {
+	font-size: 30px;
+}  
+.hero-containt p {
+	font-size: 12px;
+}   
+.hero-containt a {
+	font-size: 14px;
+	width: 150px;
+	height: 46px;
+} 
+	
+.hero-box {
+	height: 228px;
+	padding-top: 79px;
+}  
+.hero-box-text span {
+	font-size: 12px;
+}    
+  .hero-box-text h3 {
+	font-size: 28px;
+}  
+    
+ .hero-box-text {
+	margin-bottom: 20px;
+}   
+ .hero-box-btn a {
+	width: 73%;
+	height: 45px;
+	font-size: 16px;
+	border-radius: 12px;
+	line-height: 49px;
+}   
+.ex-title h3 {
+	font-size: 20px;
+}  
+.ters-title h3 {
+	font-size: 26px;
+} 
+ .tres-text h3 {
+	font-size: 30px;
+}   
+  .tres-text p {
+	font-size: 16px;
+}  
+ .tres-single-box {
+	padding: 0 36px;
+	height: 445px;
+}   
+    
+ .product-area {
+	padding-left: 50px;
+	padding-right: 50px;
+} 
+.owl-nav button {
+	left: 0;
+	height: 60px;
+	width: 60px;
+	line-height: 79px !important;
+}
+.footer-menu {
+  padding: 0;
+}
+.footer-copy {
+  padding: 0;
+} 
+    
+  .header-main-menu {
+	display: none;
+}  
+  
+.hero-containt {
+  text-align: center;
+  margin-bottom: 93px;
+}
+.hero-containt-fl {
+  display: block;
+}
+.hero-box {
+	width: 70%;
+	margin: auto;
+	margin-bottom: 80px !important;
+}
+    
+   .tres-single-box {
+	margin-bottom: 30px;
+} 
+.owl-stage {
+	left: 0;
+}
+.single-product {
+	width: 308px;
+	margin: auto;
+	margin-bottom: 65px !important;
+}    
+    
+    .owl-next {
+	right: 0;
+	left: auto !important;
+}
+.footer-area {
+	padding: 53px 0;
+}
+   .app-btn a {
+	margin: 0 2px;
+} 
+.app-icon a img {
+	max-width: 153px;
+}
+  .app-text h3 {
+	font-size: 31px;
+	color: #fff;
+	margin: 0;
+}  
+ .app-text {
+	margin-bottom: 37px;
+}   
+ .app-icon {
+	margin-bottom: 38px;
+}   
+ .aplication-area {
+	padding: 100px 0;
+	text-align: center;
+}   
+ .product-area {
+	padding-left: 0;
+	padding-right: 0;
+}   
+  
+.single-product {
+	width: 282px;
+	margin: auto;
+	margin-bottom: 65px !important;
+	margin-top: 130px;
+	padding-top: 103px;
+}
+ .product-icon a img {
+	width: auto !important;
+	max-width: 200px;
+} 
+    
+ 
+.footer-copy {
+  text-align: center;
+  margin-bottom: 30px;
+}
+.footer-menu {
+  text-align: center;
+}   
+    
+    
+  .header-off-btn.menu-trigger.right {
+	display: block !important;
+	background: #ff7f22;
+}  
+    
+ .heade-btnn.ddl a {
+  display: inline-block;
+  width: 114px;
+  margin-bottom: 20px;
+  background: #ff7f22 !important;
+  height: 40px;
+  line-height: 41px !important;
+  color: #fff !important;
+  text-align: center;
+  margin-left: 21px;
+  margin-right: 0;
+}  
+       
+    
+   .tres-area {
+	background-size: cover;
+} 
+       
+   .tres-area {
+	background-size: cover;
+}  
+}
+
+
+
+
+
+/* SM Small Device :550px. */
+@media only screen and (min-width: 576px) and (max-width: 767px) {
+
+ 
+}
