@@ -777,7 +777,7 @@ width: 300px;
     z-index: -100;
 }
  
-@media(max-width: 768px) and (orientation: landscape){
+@media(max-width: 768px){
 #landscape {
     display: flex;
     position: fixed;
