@@ -772,12 +772,12 @@ width: 300px;
   transform: rotateY(180deg);
 }
 
-/* #landscape {
+ #landscape {
     display: none;
-    z-index: -100;
-} */
+    z-index: -1000;
+}
  
-
+@media(max-width: 768px) and (orientation: landscape){
 #landscape {
   background-color:#242424;
   height: 100%;

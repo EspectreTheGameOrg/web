@@ -226,21 +226,12 @@ style="background-image: url(assets/img/bg-1.png)">
     video.play();
     
     window.onload = function(){
-        mobil();
         var contenedor = document.getElementById('contenedor_carga');
         setTimeout(() => {contenedor.style.visibility = 'hidden';
         contenedor.style.opacity = '0';
         document.body.style.overflowY= "visible";}, 600);
     }
 
-    function mobil() {      
-    let isMobile = window.matchMedia("only screen and (max-width: 760px)").matches;
-
-    if (isMobile) {
-        alert("duki");
-    }
-    
- };
 </script>
 <script>
   AOS.init();
